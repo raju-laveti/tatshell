@@ -3,8 +3,27 @@
 این شل تات شل مال چنل تلگرامی  تات شل و نوشته شده توسط 
 ENodder
 میباشد
+version: 1.2
+ENodderFirmware: 1.1.2Beta
+Github: https://github.com/tathack/tatshell.git
+RATE: 4.6/5
+Downloaded: 10024 (8000 iran, other: USA)
+Next Update: 1.2.2
+IRANIAN SHELL. TSH(TATSHELL)
 افزوده شده ها:
-نسخه اول هستش
+hack insta
+hack -fp
+download
+pack
+file OPTIONS
+folder
+THEME CHANGED
+version
+COLORS
+theme
+exit
+EXIT MESSAGE
+CTRL+C message
 راهنما:
 برای هک کردن دستور
 hack
@@ -27,3 +46,4 @@ message
 Tatshell
 by ENodder
 channel tathack
+<>UPDATED TATSHELL<>
